@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @consultant0 (Brian)
+- 👀 I’m interested in Application Security, Cloud Security, and the potential of AI and generative AI to transform technology.-
+- 🌱 I’m currently learning advanced AI security techniques, focusing on tools like OpenAI Triton, TensorFlow Privacy, and frameworks like SecML and PySyft.
+- 💞️ I’m looking to collaborate on securing AI-based applications and cloud environments, especially with a focus on AWS and Azure security best practices.
+- 📫 How to reach me: [https://www.linkedin.com/in/briancostel/]
+- ⚡ Fun fact: I’m deeply fascinated by how generative AI models can integrate securely into enterprise applications—always seeking to learn more about their defensive architecture!
